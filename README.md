@@ -1,2 +1,2 @@
 # 3D-Transformation-Shadow
-Example of 3D transformaion and shadow
+Example of 3D transformation and shadow
